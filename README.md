@@ -1,12 +1,13 @@
-<h1 align="center">Hello world! 👋</h1>
+<h1 align="center">👋 Hello world! 👋</h1>
 <h2 align="center">My name is <b>AMINE MOHAMMED</b></h2>
 <h3 align="center">Developper & Network Enginneer</h3>
+<p align="center"><img src="https://github.com/Aminh0o/Aminh0o/assets/94873791/6026be43-ee6b-4d2e-895f-0c2939d4c69e" width=80 height=70/></p>
 
-- 📫 If I can be of assistance, please do not hesitate to contact me at : **amine.bouchaour@outlook.com**
+- 📫 If I can be of assistance, please do not hesitate to contact me at : **amine.bouchaour@outlook.com** 
 
-- ⚡ **Soon, I'll add my discord account if you wanna play some games with me ^_+**
-
-![cat-computer](https://github.com/Aminh0o/Aminh0o/assets/94873791/b5254aa1-3e8e-431a-83e1-7444fb3284ea)
+- ⚡ **Soon, I'll add my discord account if you wanna play some games with me ^_+** 
+</br>
+<p align="center"><img alt="cat-coding" src="https://github.com/Aminh0o/Aminh0o/assets/94873791/b5254aa1-3e8e-431a-83e1-7444fb3284ea"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
 &nbsp
