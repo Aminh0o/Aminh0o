@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello world! 👋</h1>
 <h2 align="center">My name is <b>AMINE MOHAMMED</b></h2>
-<h3 align="center">Developper & Network Enginneer</h3>
+<h3 align="center">Web Developper & Network Enginneer Student</h3>
 <p align="center"><img src="https://github.com/Aminh0o/Aminh0o/assets/94873791/6026be43-ee6b-4d2e-895f-0c2939d4c69e" width=80 height=70/></p>
 
 - 📫 If I can be of assistance, please do not hesitate to contact me at : **amine.bouchaour@outlook.com** 
