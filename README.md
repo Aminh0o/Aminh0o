@@ -7,6 +7,10 @@
 
 - ⚡ **Soon, I'll add my discord account if you wanna play some games with me ^_+** 
 </br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amine mohammed bouchaour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine mohammed bouchaour" height="30" width="40" /></a>
+</p>
 <p align="center"><img alt="cat-coding" src="https://github.com/Aminh0o/Aminh0o/assets/94873791/b5254aa1-3e8e-431a-83e1-7444fb3284ea"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
